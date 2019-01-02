@@ -24,5 +24,3 @@ Linear Regression의 이해와 구현
 + Cost function (=Loss function)   
   + H(x) - y : 양수와 음수가 동시에 나오기 때문에 문제가 발생함
   + (H(x) - y)^2 : 양수만 나오고, 거리에 대한 패널티가 강함 (사용)
-
-# Cost function
